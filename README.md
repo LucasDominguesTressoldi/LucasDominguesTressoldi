@@ -4,7 +4,7 @@
 
 🧑🏼‍💻 I am a software developer with more than 1 year of experience  
 📚 Currently, I'm studying Software Development at FIAP  
-💻 I already have experience with these languages:  
+💻 I already have experience with these technologies and languages:  
 <div display="inline-block">
   <img align="center" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python icon" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript icon" />
