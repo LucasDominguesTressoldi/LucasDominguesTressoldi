@@ -5,18 +5,10 @@
 🧑🏼‍💻 I am a software developer with more than 1 year of experience  
 📚 Currently, I'm studying Software Engineering at FIAP  
 💻 I already have experience with these technologies and languages:  
-<div display="inline-block">
-  <img align="center" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon" />
-  <img align="center" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript icon" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" />
-  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql icon" />
-  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git icon" />
-  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce icon" />
-</div><br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ruby,git,github,nodejs,mysql,mongodb,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
+<img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce icon" />  
 
 🇧🇷 Born in São Paulo, Brazil
 
