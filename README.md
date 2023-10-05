@@ -6,7 +6,7 @@
 📚 Currently, I'm studying Software Engineering at FIAP  
 💻 I already have experience with these technologies and languages:  
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ruby,php,git,github,nodejs,mysql,mongodb,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ruby,php,git,github,nodejs,mysql,mongodb,postman,html,css)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
 <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce icon" />  
 
