@@ -16,8 +16,3 @@
 ✉️ **Feel free to contact me so we can talk!**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastressoldi/)
-
-#### My repositories:  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasDominguesTressoldi?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDominguesTressoldi)](https://github.com/LucasDominguesTressoldi/github-readme-stats)
