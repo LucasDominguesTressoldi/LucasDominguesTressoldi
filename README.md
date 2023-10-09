@@ -4,7 +4,7 @@
 
 🧑🏼‍💻 I am a software developer with more than 1 year of experience  
 📚 Currently, I'm studying Software Engineering at FIAP  
-💻 I already have experience with these technologies and languages:  
+💻 These are the technologies and tools that I already have experience with or have studied:  
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ruby,php,html,css)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,mysql,mongodb,postman)](https://skillicons.dev)  
