@@ -4,16 +4,16 @@
 
 🧑🏼‍💻 I am a backend developer with more than 1 year of experience  
 📚 Currently, I'm studying Software Engineering at FIAP  
-💻 These are the technologies and tools that I already have experience with or have studied:
+💡 Technology makes the world a better place
 
 **Languages I've worked on:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,cpp,js)](https://skillicons.dev)
 
-**Tools and IDEs I've worked on:**
+**Tools, Databases, and IDEs I've worked on:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,mysql,mongodb,postman)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,mysql,mongodb)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postman,docker,vscode,idea,eclipse)](https://skillicons.dev)  
 <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce icon" />
 
 🇧🇷 Born in São Paulo, Brazil
