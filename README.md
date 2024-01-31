@@ -20,4 +20,5 @@
 
 ✉️ **Feel free to contact me so we can talk!**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastressoldi/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastressoldi/)  
+[My Website](https://lucasdominguestressoldi.github.io/MyWebsite/)
