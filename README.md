@@ -8,7 +8,7 @@
 
 **Languages I've worked on:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cpp,cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,cpp)](https://skillicons.dev)
 
 **Tools, Databases, and IDEs I've worked on:**
 
