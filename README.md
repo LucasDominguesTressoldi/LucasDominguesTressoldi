@@ -17,4 +17,10 @@
 
 ✉️ **Feel free to contact me so we can talk!**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastressoldi/) [![My Website](https://img.shields.io/badge/My%20Website-%23c0c0c0.svg?style=for-the-badge&logo=link&logoColor=white)](https://lucasdominguestressoldi.github.io/MyWebsite/)
+<a href="https://www.linkedin.com/in/lucastressoldi/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button">
+</a>
+
+<a href="https://lucasdominguestressoldi.github.io/MyWebsite/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/My%20Website-%23c0c0c0.svg?style=for-the-badge&logo=link&logoColor=white" alt="Lucas' website button">
+</a>
