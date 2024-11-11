@@ -2,19 +2,16 @@
 
 *I'm glad to meet you!*
 
-🧑🏼‍💻 I am a backend developer with more than 1 year of experience  
-📚 Currently, I'm studying Software Engineering at FIAP  
-💡 Technology makes the world a better place
+🧑🏼‍💻 **Backend Java Developer** with over 1 year of experience.  
+💼 Currently at **RDI Software**, focused on efficiency and reliability.  
+🎓 Degree in **Software Development**.  
+💡 **Technology** makes the world a better place.
 
-**Languages I've worked on:**
+**Tools, Databases, Languages, and IDEs I've worked on:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,cpp)](https://skillicons.dev)
-
-**Tools, Databases, and IDEs I've worked on:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,mysql,mongodb)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,terraform,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,git,github,mysql)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=postman,docker,vscode,idea,eclipse)](https://skillicons.dev)  
-<img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce icon" />
 
 🇧🇷 Born in São Paulo, Brazil
 
