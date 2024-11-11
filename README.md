@@ -9,7 +9,7 @@
 
 **Tools, Databases, Languages, and IDEs I've worked on:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,terraform,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,terraform,redis)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=python,js,git,github,mysql)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=postman,docker,vscode,idea,eclipse)](https://skillicons.dev)  
 
