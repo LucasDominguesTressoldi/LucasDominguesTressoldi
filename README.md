@@ -1,8 +1,9 @@
 ### Hello there 👋🏼, my name is Lucas!  
 
 🧑🏼‍💻 **Software Developer** with over 2 years of experience.  
-💼 Currently working at **RDI Software** as a **Jr Software Developer**, focused on efficiency and reliability.  
+💼 Currently working at **RDI Software Brazil** as a **Jr Software Developer**, focused on efficiency and reliability.  
 🎓 Degree in **Software Development** at **FIAP**.  
+
 🇧🇷 Born in São Paulo, Brazil.  
 
 **Tools, Databases, Languages, and IDEs I've worked on:**  
